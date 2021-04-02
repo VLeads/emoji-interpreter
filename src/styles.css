@@ -1,0 +1,19 @@
+.App {
+  font-family: cursive;
+  text-align: center;
+}
+
+body {
+  background-color: navajowhite;
+  max-width: 500px;
+  margin: auto;
+  margin-top: 3rem;
+}
+
+input {
+  border-radius: 0.5rem;
+  margin: 2rem;
+  width: 50%;
+  padding: 1rem;
+  outline: none;
+}
