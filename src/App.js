@@ -55,7 +55,15 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1>Vishal's emoji interpreter</h1>
+      <h1>
+        <a
+          style={{ color: "purple", textDecoration: "none" }}
+          href="https://vishalkumar.netlify.app"
+        >
+          Vishal's
+        </a>{" "}
+        emoji interpreter
+      </h1>
       <input onChange={emojiHandler} />
       <h2> {inputEmoji} </h2>
 
