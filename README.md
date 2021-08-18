@@ -1,6 +1,7 @@
-# emoji-interpreter
+# [emoji-interpreter](https://emojisinterpreter.netlify.app/)
 
-## here is link to my [CodeSandBox](https://codesandbox.io/s/github/VLeads/emoji-interpreter)
-This is the editor where i had written my code !!
+## Features
 
-Created with CodeSandbox
+* A simple emoji interpreter
+* It gives the meaning of day to day emoji you use. So, stuck with emoji, what to use? Head over to here :) 
+* Made in ReactJS
